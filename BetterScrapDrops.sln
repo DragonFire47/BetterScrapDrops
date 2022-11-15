@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterScrapDrops", "BetterScrapDrops\BetterScrapDrops.csproj", "{6F783D2D-7A94-4873-9583-9BB2945036EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F783D2D-7A94-4873-9583-9BB2945036EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F783D2D-7A94-4873-9583-9BB2945036EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F783D2D-7A94-4873-9583-9BB2945036EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F783D2D-7A94-4873-9583-9BB2945036EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD7F828-3C03-4F42-AB9E-659995B55896}
+	EndGlobalSection
+EndGlobal
