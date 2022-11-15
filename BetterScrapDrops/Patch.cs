@@ -15,9 +15,13 @@ namespace BetterScrapDrops
         //returns level for scrap
         static int PatchMethod(int componentHash)
         {
-            if(componentHash == -1)
+            if(componentHash <= -1)
             {
                 return 0;
+            }
+            else if(componentHash < 256)
+            {
+                return componentHash;
             }
             else
             {
